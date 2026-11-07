@@ -1,0 +1,4 @@
+supabase>=2.20
+textual>=1.0
+cryptography>=44
+python-dotenv>=1.0
